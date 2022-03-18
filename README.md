@@ -1,0 +1,1 @@
+The server side of a javascript notes application.
